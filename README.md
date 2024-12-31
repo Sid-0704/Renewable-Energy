@@ -1,2 +1,2 @@
-# CHE
-This is a project work of environmental studies
+# Renewable-Energy
+This is a website that provides information about various renewable energy sources
